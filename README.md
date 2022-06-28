@@ -28,7 +28,7 @@ The analysis for the election show that:
   - Denver County had 82.8% of the total voters with 306,055 votes.
   - Arapahoe County had 6.7% of the total voters with 24,801 votes.
 - The county with the largest turnout was:
-  - Denver county
+  - Denver County
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
